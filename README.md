@@ -1,4 +1,3 @@
-# popgen_start
 
 I am an evolutionary biologist that has chosen to investigate evolutionary signatures through the hourglass of molecular biology. I work under the principles of population genetics theory to characterize the footprints of neutral and adaptive evolution alike. I have started my carrier with the ever accessible mtDNA, then leaped to microsatellites and now I am fully into next generation sequencing, or NGS. 
 
