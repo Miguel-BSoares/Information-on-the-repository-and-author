@@ -7,4 +7,6 @@ Hope it helps anybody out there:)
 
 IMPORTANT TO READ: Naturally, the limit is not (unfortunately) the sky but rather my comprehension, creativity, experience and the research oportunities I have been given. 
 
-DISCLAIMER: I will always run potentially wrapper software piece-by-piece so to check errors in every step and see how data behaves. None of these organisms are model organisms.
+DISCLAIMER 1: I will always run potentially wrapper software piece-by-piece so to check errors in every step and see how data behaves. None of these organisms are model organisms.
+
+DISCLAIMER 2: All the scripts I publish here are for informational purposes and transparency of my methods.
